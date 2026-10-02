@@ -1,0 +1,24 @@
+company:
+  name: Northwind Analytics
+  site: https://northwind.example
+  privacy_email: privacy@northwind.example
+notice_days: 30
+vendors:
+  - name: Stripe
+    purpose: Subscription billing
+    location: United States
+    announced_on: 2026-01-02
+    effective_on: 2026-02-02
+    status: active
+  - name: Hetzner
+    purpose: Application hosting
+    location: Germany
+    announced_on: 2026-03-01
+    effective_on: 2026-04-01
+    status: active
+  - name: Postmark
+    purpose: Transactional email
+    location: United States
+    announced_on: 2026-09-01
+    effective_on: 2026-10-15
+    status: pending
